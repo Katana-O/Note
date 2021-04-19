@@ -1,0 +1,3 @@
+Socket关键函数
+
+通过 Java.net.SocketOutputStream 可以追踪到 socketWrite -> socketWrite0 -> [SocketOutputStream_socketWrite0](https://cs.android.com/android/platform/superproject/+/master:libcore/ojluni/src/main/native/SocketOutputStream.c;bpv=1;bpt=1;l=55?q=socketWrite0&ss=android%2Fplatform%2Fsuperproject&gsn=SocketOutputStream_socketWrite0&gs=kythe%3A%2F%2Fandroid.googlesource.com%2Fplatform%2Fsuperproject%3Flang%3Dc%252B%252B%3Fpath%3Dlibcore%2Fojluni%2Fsrc%2Fmain%2Fnative%2FSocketOutputStream.c%23_7GIpIZeQ5iXbZBH0Rr-7Omc28WjRBqrN1ECmZ-HeLE)

@@ -1,0 +1,3 @@
+为什么用Charles不用Burp
+
+Burp不支持VPN抓包。
